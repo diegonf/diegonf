@@ -4,7 +4,7 @@
 
 I have already taken courses in HTML, CSS, SCSS, JavaScript and ReactJS with TypeScript. 
 
-At the moment, I'm deepening my knowledge in ReactJS throught projects and I'm studying Jest and Firebase. I'm looking for my first opportunity as a Front-End Developer. </p>
+At the moment, I'm deepening my knowledge in ReactJS through projects and I'm studying Jest and Firebase. I'm looking for my first opportunity as a Front-End Developer. </p>
 
 
 ## 🚀💻 Technologies & Tools
