@@ -1,10 +1,20 @@
+## Olá!  Sou o Diego! 🙂
+
+<img align="left" src="https://avatars.githubusercontent.com/u/97759524?v=4" width=70> Sou um Engenheiro Mecânico em uma mudança de carreira para me tornar desenvolvedor front-end, focado em ReactJS. Sou estudante na [Alura](www.alura.com.br) e já fiz cursos de HTML, CSS, SCSS, JavaScript e ReactJS com TypeScript. No momento, busco aprofundar meus conhecimentos em ReactJS através de projetos e estou estudando testes unitários com Jest e Firebase.
+<br>
+<br>
+
+Aqui no meu github você irá encontrar basicamente dois tipos de repositórios:
+* Repositórios começando com Studies__ são projetos realizados nos meus estudos, com um instrutor ou professor guiando o processo.
+* Repositórios começando com Project__ são projetos em que trabalhei por minha conta própria.
+
 ## Hello!  I'm Diego! 🙂
 
-<p align = "left">I'm a Mechanical Engineer in a career change to become a front-end developer, focused now in ReactJS.
+I'm a Mechanical Engineer in a career change to become a front-end developer, focused now in ReactJS. I am a student at [Alura](www.alura.com.br) and I have already taken courses in HTML, CSS, SCSS, JavaScript and ReactJS with TypeScript. At the moment, I'm deepening my knowledge in ReactJS through projects and I'm studying Jest and Firebase. I'm looking for my first opportunity as a Front-End Developer.
 
-I have already taken courses in HTML, CSS, SCSS, JavaScript and ReactJS with TypeScript. 
-
-At the moment, I'm deepening my knowledge in ReactJS through projects and I'm studying Jest and Firebase. I'm looking for my first opportunity as a Front-End Developer. </p>
+In my github profile you will find two kinds of repositories:
+* Repositories' name starting with Studies__ are projects I developed in my studies, with the guidance of an instructor or teacher.
+* Repositories' name starting with Project__ are projects I developed on my own.
 
 
 ## 🚀💻 Technologies & Tools
