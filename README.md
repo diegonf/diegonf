@@ -1,20 +1,18 @@
-## Olá!  Sou o Diego! 🙂
+## Olá!! 🙂
+Bem-vindos ao meu perfil no GitHub!
 
-<img align="left" src="https://avatars.githubusercontent.com/u/97759524?v=4" width=70> Sou um Engenheiro Mecânico em uma mudança de carreira para me tornar desenvolvedor front-end, focado em ReactJS. Sou estudante na [Alura](www.alura.com.br) e já fiz cursos de HTML, CSS, SCSS, JavaScript e ReactJS com TypeScript. No momento, busco aprofundar meus conhecimentos em ReactJS através de projetos e estou estudando testes unitários com Jest e Firebase.
+<img align="left" src="https://avatars.githubusercontent.com/u/97759524?v=4" width=70> Sou o Diego. Sou Engenheiro Mecânico de formação com cinco anos de experiência na indústria trabalhando com manutenção. Foi nessa área, atuando principalmente com automatizações em planilhas de Excel com VBA, que eu descobri minha motivação para trabalhar com programação.
+<br>
+Tenho experiência desenvolvendo aplicações web com React com Typescript. Tenho conhecimento em testes com Jest e Vitest, e no sistema Firebase da Google.
+<br>
+<br>
+Você tem uma oportunidade para Desenvolvedor Front-end Junior? Então pode chamar e vamos conversar!
 <br>
 <br>
 
 Aqui no meu github você irá encontrar basicamente dois tipos de repositórios:
 * Repositórios começando com Studies__ são projetos realizados nos meus estudos, com um instrutor ou professor guiando o processo.
 * Repositórios começando com Project__ são projetos em que trabalhei por minha conta própria.
-
-## Hello!  I'm Diego! 🙂
-
-I'm a Mechanical Engineer in a career change to become a front-end developer, focused now in ReactJS. I am a student at [Alura](www.alura.com.br) and I have already taken courses in HTML, CSS, SCSS, JavaScript and ReactJS with TypeScript. At the moment, I'm deepening my knowledge in ReactJS through projects and I'm studying Jest and Firebase. I'm looking for my first opportunity as a Front-End Developer.
-
-In my github profile you will find two kinds of repositories:
-* Repositories' name starting with Studies__ are projects I developed in my studies, with the guidance of an instructor or teacher.
-* Repositories' name starting with Project__ are projects I developed on my own.
 
 
 ## 🚀💻 Technologies & Tools
